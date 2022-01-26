@@ -74,3 +74,8 @@ p{
 span{
     color: rgb(41, 41, 237);
 }
+@media  screen and (max-width:500px) {
+    .form{
+        width: 300px;
+    }
+}
